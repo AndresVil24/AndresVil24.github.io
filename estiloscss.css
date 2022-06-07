@@ -45,7 +45,7 @@ padding-left: 15px;
 position: absolute;
 margin-top: -85px;
 z-index: -20;
-color: rgba(0, 0, 0, 0.6);
+color:  rgba(255, 255, 255, 0.8);
 transition: all 0.2s;
 }
 
